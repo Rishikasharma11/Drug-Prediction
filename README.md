@@ -51,4 +51,7 @@ This project predicts the most suitable drug for a patient based on their medica
     - **Na_to_K**: Provide the Sodium-to-Potassium ratio.
 3. Click the Predict button to get the recommended drug.
 4. Explore the visualized decision tree logic for insights.
+   
+![image](https://github.com/user-attachments/assets/3fe0cf19-70bd-412d-a3a4-e39bcdda63f5)
+
 
